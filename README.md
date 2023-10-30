@@ -51,7 +51,7 @@ Will update soon.
 - View other people profile
 
 # Outputs
-
+- Authentication
 <img width="941" alt="image" src="https://github.com/yogi-25/Pulse-Chat/assets/55496505/99a381c3-5598-4db6-985f-13e6da2bdd87">
 
 ![Screenshot (15)](https://github.com/yogi-25/TalkingDocs/assets/55496505/5af8d4ed-5a1f-4cb6-bebe-0abaab5e9626)
