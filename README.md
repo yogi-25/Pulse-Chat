@@ -20,10 +20,11 @@ Will update soon.
   
 # Usage
 - Clone the project
-
+  
   git clone https://github.com/piyush-eon/mern-chat-app
 - Go to the project directory
   cd mern
+  
 - Install dependencies
 
   npm install
@@ -34,11 +35,10 @@ Will update soon.
   npm run start
 - Start the Client
 
-  //open now terminal
+  //open new terminal
   cd frontend
   npm start
   
-
 # Key Features
 - Authentication
 - Real time chatting with typing indicators.
