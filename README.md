@@ -19,7 +19,24 @@ Will update soon.
  
   
 # Usage
-- 
+- Clone the project
+
+  git clone https://github.com/piyush-eon/mern-chat-app
+- Go to the project directory
+  cd mern
+- Install dependencies
+
+  npm install
+  cd frontend/
+  npm install
+- Start the server
+
+  npm run start
+- Start the Client
+
+  //open now terminal
+  cd frontend
+  npm start
   
 
 # Key Features
